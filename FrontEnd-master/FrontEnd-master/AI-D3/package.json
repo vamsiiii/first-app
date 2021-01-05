@@ -4,7 +4,7 @@
   "description": "",
   "keywords": [],
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "d3": "^5.15.0",
     "react": "next",
     "react-autosuggest": "9.4.1",
